@@ -1,6 +1,6 @@
 ### Hi, I'm Pedro Lucas de Abreu 👨🏽‍💻🤖
 
-## I am a Python/SQL Developer focused on Data Engineering 💻🛠️
+### I am a Python/SQL Developer focused on Data Engineering 💻🛠️
 
 ## Technologies that I use in my workdays 👨🏽‍💻
 
