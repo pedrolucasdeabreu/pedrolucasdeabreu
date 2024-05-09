@@ -1,6 +1,6 @@
 ### Hi, I'm Pedro Lucas de Abreu 👨🏽‍💻🤖
 
-I am a Python/SQL Developer focused on Data Engineering 💻🛠️
+## I am a Python/SQL Developer focused on Data Engineering 💻🛠️
 
 ## Technologies that I use in my workdays 👨🏽‍💻
 
@@ -10,7 +10,6 @@ I am a Python/SQL Developer focused on Data Engineering 💻🛠️
     <img align="center" alt="Spark" src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white"/>
     <img align="center" alt="PowerShell" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"/>
     <img align="center" alt="Batch" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
-    <img align="center" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
     <img align="center" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=whitee"/>
 </div>
 
